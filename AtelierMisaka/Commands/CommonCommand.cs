@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AtelierMisaka.Commands
+namespace .Commands
 {
     public class CommonCommand : BaseCommand
     {
